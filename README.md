@@ -1,2 +1,2 @@
 # Portal-Coxim
-Site de notícias para a aula de Web.
+Desenvolvimento de um site de notícias para a aula de Web.
